@@ -1,0 +1,11 @@
+anotações sobre o Git Hub
+para add um remote host para commit tem que fazer
+
+
+git remote add origin https://github.com/username/Hello-World.git
+
+origin = é o apelido do host para chamar na hora de dar commit
+
+git push origin master
+
+envia tudo que esta no brunch master para o repositorio
